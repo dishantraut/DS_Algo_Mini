@@ -14,4 +14,3 @@ for k in range(len(x)):
     c = x_b.index(x[k])
     x_in.append(c)
 print(x_in)
-
