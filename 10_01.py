@@ -20,4 +20,3 @@ for i in range(len(x)):
             x[j] = x[j+1]
             x[j+1] = temp
             print(x)
-
